@@ -1,6 +1,6 @@
 public class OneLiner{
-
-    public boolean mystery(int a, int b, int c){
+//boolean
+    public void mystery(int a, int b, int c){
         
     }
 }
